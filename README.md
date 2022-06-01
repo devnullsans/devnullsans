@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devnullsans
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Graphql ...
-- 💞️ I’m looking to collaborate on Web based projects.
+- 👋 Hi, I’m ***@devnullsans***
+- 👀 I’m interested in __JavaScript__
+- 🌱 I’m currently learning `GUN`, `Svlte`, `Docker`, `NextJS`, `GraphQL`, `WebSocket`, `MongoDB`, `ReactJS`, `REST-API`, `ExpressJS`, `NodeJS`, `SQL`, `HTTP` ...
+- 💞️ I’m looking to collaborate on any JavaScript codebase.
 - 📫 How to reach me @devnullsans
 
 <!---
